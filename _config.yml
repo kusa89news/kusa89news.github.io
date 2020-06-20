@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "草野球ニュース"
 description              : "通勤・通学中に草野球情報をアップデート"
 url                      : "https://kusa89news.github.io/"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : #""
 repository               : "kusa89news/kusa89news.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -38,7 +38,7 @@ comments:
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
-    num_posts            : # 5 (default)
+    num_posts            : 5
     colorscheme          : # "light" (default), "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "草野球ニュース"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "草野球関連の情報をまとめています"
+  location         : #
   email            :
   links:
     - label: "Email"
@@ -206,7 +206,8 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+#permalink: /:categories/:title/
+permalink: /:year/:month/:day-:slug:output_ext
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: Asia/Tokyo
