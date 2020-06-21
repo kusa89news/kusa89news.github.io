@@ -13,6 +13,6 @@ tags:
 ◎イチロー選手の捻れ方が理想的  
 
 動画はこちら
-<iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/VFCyrH-rvfI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VFCyrH-rvfI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [これが飛距離UPには必須!!　爆発的に伸びる練習法!!](https://youtu.be/VFCyrH-rvfI)
