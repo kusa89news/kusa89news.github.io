@@ -49,6 +49,8 @@ comments:
 reCaptcha:
   siteKey                :
   secret                 :
+feed:
+  posts_limit            : 1000
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : #
