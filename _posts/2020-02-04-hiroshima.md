@@ -1,15 +1,8 @@
 ---
-author: kusa89news
 title: 田中広輔選手のグラブのこだわり
-slug: >-
-  %e7%94%b0%e4%b8%ad%e5%ba%83%e8%bc%94%e9%81%b8%e6%89%8b%e3%81%ae%e3%82%b0%e3%83%a9%e3%83%96%e3%81%ae%e3%81%93%e3%81%a0%e3%82%8f%e3%82%8a
-id: 344
-date: '2020-05-07 22:30:39'
-layout: post
+layout: single
 categories:
   - ギア
-  - グラブ
-  - 内野手
 ---
 
 [広島東洋カープ公式](https://www.youtube.com/channel/UC0VGvOEN22JcprH7pZrCwiw) のプチ野球教室にて田中広輔選手のグラブへのこだわりについて解説がありました。

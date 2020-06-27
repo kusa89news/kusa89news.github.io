@@ -16,4 +16,7 @@ tags:
 ✅ 何を考えているかを振り  
 自分にあった意識を選んでみよう
 
-dDopAKBke8g
+動画はこちら
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dDopAKBke8g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[三冠王落合さんの金言！「打席に迷いを持ち込むな！」クーニンズメンバーは打席中何を考えている？](https://youtu.be/dDopAKBke8g)
