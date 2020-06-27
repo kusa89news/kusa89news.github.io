@@ -1,11 +1,8 @@
 ---
 author: kusa89news
 title: ファーストのショートバウンド処理
-slug: >-
-  %e3%83%95%e3%82%a1%e3%83%bc%e3%82%b9%e3%83%88%e3%81%ae%e3%82%b7%e3%83%a7%e3%83%bc%e3%83%88%e3%83%90%e3%82%a6%e3%83%b3%e3%83%89%e5%87%a6%e7%90%86
-id: 128
 date: '2020-02-15 10:00:00'
-layout: post
+layout: single
 categories:
   - 一塁手
   - 内野手

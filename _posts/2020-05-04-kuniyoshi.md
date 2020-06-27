@@ -1,11 +1,8 @@
 ---
 author: kusa89news
 title: モンスターサワダのインコース打ち
-slug: >-
-  %e3%83%a2%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%b5%e3%83%af%e3%83%80%e3%81%ae%e3%82%a4%e3%83%b3%e3%82%b3%e3%83%bc%e3%82%b9%e6%89%93%e3%81%a1
-id: 113
 date: '2020-05-04 13:40:00'
-layout: post
+layout: single
 categories:
   - 内角打ち
   - 打撃

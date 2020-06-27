@@ -1,11 +1,8 @@
 ---
 author: kusa89news
 title: 外野手のポジション
-slug: >-
-  %e5%a4%96%e9%87%8e%e6%89%8b%e3%81%ae%e3%83%9d%e3%82%b8%e3%82%b7%e3%83%a7%e3%83%b3
-id: 201
 date: '2020-03-28 12:51:00'
-layout: post
+layout: single
 categories:
   - ポジション
   - 外野手

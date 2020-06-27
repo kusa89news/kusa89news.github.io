@@ -1,11 +1,8 @@
 ---
 author: kusa89news
 title: 雨の日の外野守備対策
-slug: >-
-  %e9%9b%a8%e3%81%ae%e6%97%a5%e3%81%ae%e5%a4%96%e9%87%8e%e5%ae%88%e5%82%99%e5%af%be%e7%ad%96
-id: 158
 date: '2020-02-28 19:09:00'
-layout: post
+layout: single
 categories:
   - 外野手
   - 守備

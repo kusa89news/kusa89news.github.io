@@ -1,11 +1,8 @@
 ---
 author: kusa89news
 title: 會澤選手置きティー
-slug: >-
-  %e6%9c%83%e6%be%a4%e9%81%b8%e6%89%8b%e7%bd%ae%e3%81%8d%e3%83%86%e3%82%a3%e3%83%bc
-id: 100
 date: '2020-05-01 13:30:00'
-layout: post
+layout: single
 categories:
   - 打撃
   - 練習

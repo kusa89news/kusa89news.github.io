@@ -1,11 +1,8 @@
 ---
 author: kusa89news
 title: 長打のためのスウェー練習
-slug: >-
-  %e9%95%b7%e6%89%93%e3%81%ae%e3%81%9f%e3%82%81%e3%81%ae%e3%82%b9%e3%82%a6%e3%82%a7%e3%83%bc%e7%b7%b4%e7%bf%92
-id: 381
 date: '2020-05-09 18:48:20'
-layout: post
+layout: single
 categories:
   - 体重移動
   - 打撃

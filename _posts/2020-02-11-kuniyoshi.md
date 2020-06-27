@@ -1,11 +1,7 @@
 ---
-author: kusa89news
 title: プライオボールで球速アップ
-slug: >-
-  %e3%83%97%e3%83%a9%e3%82%a4%e3%82%aa%e3%83%9c%e3%83%bc%e3%83%ab%e3%81%a7%e7%90%83%e9%80%9f%e3%82%a2%e3%83%83%e3%83%97
-id: 146
 date: '2020-02-11 17:40:00'
-layout: post
+layout: single
 categories:
   - ギア
   - トレーニング

@@ -1,11 +1,8 @@
 ---
 author: kusa89news
 title: 軸足の改善で球速アップ
-slug: >-
-  %e8%bb%b8%e8%b6%b3%e3%81%ae%e6%94%b9%e5%96%84%e3%81%a7%e7%90%83%e9%80%9f%e3%82%a2%e3%83%83%e3%83%97
-id: 134
 date: '2020-02-08 16:46:00'
-layout: post
+layout: single
 categories:
   - 投手
   - 投球

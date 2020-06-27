@@ -1,11 +1,8 @@
 ---
 author: kusa89news
 title: 田上選手の投手の癖の観察について解説
-slug: >-
-  %e7%94%b0%e4%b8%8a%e9%81%b8%e6%89%8b%e3%81%ae%e6%8a%95%e6%89%8b%e3%81%ae%e7%99%96%e3%81%ae%e8%a6%b3%e5%af%9f%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e8%a7%a3%e8%aa%ac
-id: 319
 date: '2020-04-29 14:44:00'
-layout: post
+layout: single
 categories:
   - 配球
 tags:

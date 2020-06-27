@@ -1,11 +1,8 @@
 ---
 author: kusa89news
 title: タガミ流置きティー
-slug: >-
-  %e3%82%bf%e3%82%ac%e3%83%9f%e6%b5%81%e7%bd%ae%e3%81%8d%e3%83%86%e3%82%a3%e3%83%bc
-id: 231
 date: '2020-04-25 16:00:00'
-layout: post
+layout: single
 categories:
   - トレーニング
   - 打撃

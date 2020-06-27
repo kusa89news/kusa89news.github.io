@@ -1,11 +1,8 @@
 ---
 author: kusa89news
 title: 坂本打法を習得する練習解説
-slug: >-
-  %e5%9d%82%e6%9c%ac%e6%89%93%e6%b3%95%e3%82%92%e7%bf%92%e5%be%97%e3%81%99%e3%82%8b%e7%b7%b4%e7%bf%92%e8%a7%a3%e8%aa%ac
-id: 235
 date: '2020-01-25 16:07:00'
-layout: post
+layout: single
 categories:
   - 打撃
   - 練習
