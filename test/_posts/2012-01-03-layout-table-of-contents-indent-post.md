@@ -1,5 +1,5 @@
 ---
-title: "Layout: Post with Nested Table of Contents"
+title: "layout: single with Nested Table of Contents"
 tags:
   - table of contents
 toc: true
