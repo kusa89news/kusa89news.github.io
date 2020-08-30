@@ -13,5 +13,5 @@ tags:
 調子を落とした時に戻しやすい可能性がある
 
 動画はこちら
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L8GHD3KnEcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/L8GHD3KnEcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 [守備猿が人生最高の真芯で打った！今年は長距離砲で行きます！](https://youtu.be/L8GHD3KnEcU)

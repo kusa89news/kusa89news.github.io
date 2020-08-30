@@ -23,6 +23,6 @@ tags:
 
 
 動画はこちら
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DTOrP6v5XXQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/DTOrP6v5XXQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
 [【カープ公式】西川龍馬選手によるプチ野球教室⚾️](https://youtu.be/DTOrP6v5XXQ)

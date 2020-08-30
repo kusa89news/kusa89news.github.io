@@ -15,6 +15,6 @@ tags:
 =>股関節とお尻をボールをぶつける意識の向上  
 
 動画はこちら
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XGxrSwAQ4zA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/XGxrSwAQ4zA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
 [【やらなきゃ損】飛距離を伸ばすための素振り練習方法](https://youtu.be/XGxrSwAQ4zA)
